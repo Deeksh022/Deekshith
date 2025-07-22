@@ -88,16 +88,16 @@
 
 ## 📊 My GitHub Stats
 
+
 <p align="left">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Deeksh022)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksh022&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksh022&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeksh022&theme=dark" alt="GitHub Streak"/>
 </p>
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeksh022&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeksh022&show_icons=true&theme=dark"/>
 </p>
 
 ---
