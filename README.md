@@ -89,7 +89,7 @@
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeksh022&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Deekshith's GitHub Stats"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Deeksh022)](https://git.io/streak-stats)
 </p>
 
 <p align="left">
